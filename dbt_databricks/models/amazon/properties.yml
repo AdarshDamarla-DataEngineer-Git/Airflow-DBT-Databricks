@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: amazon_staging
+    description: "Staging model for Amazon data"
+    columns:
+      - name: product_id
+        data_tests:
+          - not_null
+            

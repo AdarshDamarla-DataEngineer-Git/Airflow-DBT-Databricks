@@ -1,0 +1,11 @@
+databricks_amazon_project:
+  outputs:
+    dev:
+      catalog: airflow_dbt_connect
+      host: {your-databricks-host}
+      http_path: {your-databricks-http-path}
+      schema: dbt_amazon
+      threads: 1
+      token: {your_databricks_token}
+      type: databricks
+  target: dev

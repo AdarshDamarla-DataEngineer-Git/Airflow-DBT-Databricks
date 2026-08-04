@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: amazon
+    description: "Amazon data"
+
+    catalog: airflow_dbt_connect
+    schema: dbt_amazon
+
+    tables:
+      - name: amazon
