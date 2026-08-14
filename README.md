@@ -260,7 +260,6 @@ ORDER BY reviews DESC;
 - [Architecture and orchestration flow](docs/ARCHITECTURE.md)
 - [dbt lineage and model reference](docs/DBT_LINEAGE.md)
 - [Security and operational guidance](docs/SECURITY_AND_OPERATIONS.md)
-- [Portfolio-ready project summary](docs/PROJECT_SHOWCASE.md)
 
 ## Author
 
