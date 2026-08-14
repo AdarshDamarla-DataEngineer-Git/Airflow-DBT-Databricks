@@ -264,6 +264,6 @@ ORDER BY reviews DESC;
 
 ## Author
 
-**Adarsh Damarla** · [GitHub](https://github.com/AdarshDamarla-Git)
+**Adarsh Damarla** · [GitHub](https://github.com/AdarshDamarla-DataEngineer-Git)
 
 
