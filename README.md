@@ -266,6 +266,4 @@ ORDER BY reviews DESC;
 
 **Adarsh Damarla** · [GitHub](https://github.com/AdarshDamarla-Git)
 
-## License
 
-No project-level license is currently included. Add a license before permitting reuse or redistribution.
